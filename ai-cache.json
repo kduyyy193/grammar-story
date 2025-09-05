@@ -1,0 +1,16 @@
+{
+  "dailyPrompt": {
+    "themeCategory": "Simple Past",
+    "prompt": "This is a shared prompt from the cache file. Imagine you found a mysterious old map yesterday. Write a short story about where it led you.",
+    "expires": 1672531200000
+  },
+  "dailyChallenges": {
+    "themeCategory": "Simple Past",
+    "challenges": [],
+    "expires": 1672531200000
+  },
+  "tenseTheoryExamples": {
+    "examples": {},
+    "expires": 1672531200000
+  }
+}
